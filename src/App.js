@@ -10,7 +10,6 @@ function App() {
   <h1> Hello From Bridgelabz</h1>
    </div>
    
- 
   );
 }
 
