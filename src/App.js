@@ -11,10 +11,12 @@ import Contact from "./Components/Contact";
 import NoPage from "./Components/NoPage";
 
 class App extends React.Component {
+  
   url = "https://www.bridgelabz.com/"
   constructor() {
     super()
     this.state = {
+        // name:"",
       userName: " ",
       nameError: " "
     }
